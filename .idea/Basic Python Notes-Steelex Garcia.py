@@ -7,16 +7,14 @@ print("Welcome To Class")
 
 '''This is a bunch of work right now'''
 
-#variuables
-1 = "Hello World"
+#variables
 print (a)
 
 b = 5
 b = 7
 print(b+c)
 print(-1 - 15)
-
-
+print("Hello World")
 
 
 
